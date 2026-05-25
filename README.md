@@ -79,7 +79,7 @@ The system evaluates:
 
 ### Score Analysis
 
-![Score Analysis](images/score-analysis.png)
+![Score Analysis](images/score-output.png)
 
 ---
 
@@ -97,7 +97,7 @@ Generated concepts focus on:
 
 ### Generated Creative Concepts
 
-![Prompt Generation](images/prompt-generation.png)
+![Prompt Generation](images/prompt-output.png)
 
 ---
 
